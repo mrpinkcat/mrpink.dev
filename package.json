@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@fullpage/react-fullpage": "^0.1.17",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-device-detect": "^1.13.1",
     "react-dom": "^16.13.1",
